@@ -9,7 +9,7 @@ setup(
   author = 'Johan Kirsten',
   author_email = 'kirsten.johanf@gmail.com',
   url = 'https://github.com/johankirsten/ecmath',
-  download_url = 'https://github.com/johankirsten/ecmath/archive/refs/tags/v_01.tar.gz',
+  download_url = 'https://github.com/johankirsten/ecmath/archive/refs/tags/v_02.tar.gz',
   keywords = ['Elliptic curve'],
   classifiers=[
     'Development Status :: 3 - Alpha',

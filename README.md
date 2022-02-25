@@ -1,7 +1,7 @@
-# ellipticcurve
+# ecmath
 ## _Library for elliptic curve arithmetic_
 
-ellipticcurve is a library that implements the arithmetic to add two points on an elliptice curve and multiply a point on the elliptic curve with an integer. The elliptice curve arithmetic is done over a finite field.
+ecmath is a library that implements the arithmetic to add two points on an elliptice curve and multiply a point on the elliptic curve with an integer. The elliptice curve arithmetic is done over a finite field.
 
 ## Features
 
@@ -10,10 +10,10 @@ ellipticcurve is a library that implements the arithmetic to add two points on a
 
 ## Installation
 
-ellipticcurve requires Python 3 to run. Use pip to install the library
+ecmath requires Python 3 to run. Use pip to install the library
 
 ```sh
-pip install elliptic curve
+pip install ecmath
 ```
 
 The file example.py shows an example of calling the code
